@@ -1,0 +1,52 @@
+Altium Designer Pick and Place Locations
+R:\CAD\Altium\Onethinx\OT_LoRaWAN_Kit\OT_LoRaWAN_Kit_02\Project Outputs for OT_LoRaWAN_Kit_02\Pick Place for OT_LoRaWAN_Kit_02.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       22-10-19
+Time:       16:57
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"Fi1","FiducialTop","TopLayer","FiducialTop","-21.1000","20.4000","90","Fiducial Marker 1mm for Pick n Place"
+"Fi2","FiducialTop","TopLayer","FiducialTop","17.6000","-22.7000","90","Fiducial Marker 1mm for Pick n Place"
+"Fi3","FiducialTop","TopLayer","FiducialTop","-23.1000","-7.8000","90","Fiducial Marker 1mm for Pick n Place"
+"ANT1","ANT","TopLayer","ANT_FR05-S1-N-0-102","-4.7500","4.6000","180","Antenna Fractus FR05-S1-N-0-102"
+"BT1","BT P0_4","TopLayer","BUTTON_TACT6x6","-21.5000","19.0000","90","FSM4JH"
+"C1","1uF","TopLayer","0603C-GENERIC","-20.4353","-9.2515","90","Capacitor"
+"C2","1uF","TopLayer","0603C-GENERIC","-15.4483","-9.2515","90","Capacitor"
+"C3","100nF","TopLayer","0603C-GENERIC","6.1015","9.2000","180","Capacitor"
+"C4","100nF","TopLayer","0603C-GENERIC","-11.5000","10.7985","90","Capacitor"
+"C5","100nF","TopLayer","0603C-GENERIC","-11.5000","16.4985","90","Capacitor"
+"C6","1pF","TopLayer","0402C-SMALL","-2.5100","9.5000","180","Capacitor"
+"C7","1.5pF","TopLayer","0402C-SMALL","-1.1100","8.9000","270","Capacitor"
+"C8","dnp","TopLayer","0402C-SMALL","-0.2100","8.9000","90","Capacitor"
+"CN1","CONNECTOR 1x3","TopLayer","HEADER-1X3","-17.9500","-5.7400","90","Harwin M20-9990345"
+"CN2","CONNECTOR 1x3","TopLayer","HEADER-1X3","17.5000","7.0000","90","Harwin M20-9990345"
+"CN3","CONNECTOR 1x3","TopLayer","HEADER-1X3","17.5000","4.0000","90","Harwin M20-9990345"
+"CN4","CONNECTOR 1x3","TopLayer","HEADER-1X3","17.5000","10.0000","90","Harwin M20-9990345"
+"CN5","CONNECTOR 1x3","TopLayer","HEADER-1X3","17.5000","1.0000","90","Harwin M20-9990345"
+"CN6","CONNECTOR 1x3","TopLayer","HEADER-1X3","-17.9500","1.0000","90","Harwin M20-9990345"
+"CN7","Programmer","TopLayer","CON_Molex_22053051","-14.4000","-13.3000","0","CON Molex 22053051"
+"CR2450","BAT","TopLayer","BATT_2450_clip_-_TH","7.4000","-13.8000","180","Battery"
+"D1","BAS16HT1G","TopLayer","SOD323","-13.3000","-5.7000","90","Diode"
+"J1","CONNECTOR 1x8","TopLayer","SOCKET_2.54_1X8_TH","-24.1300","3.8100","180","CONNECTOR 1x8"
+"J2","CONNECTOR 1x6","TopLayer","SOCKET_2.54_1X6_TH","-24.1300","-16.5100","180","CONNECTOR 1x6"
+"J3","CONNECTOR 1x10","TopLayer","SOCKET_2.54_1X10_TH","24.1300","10.4140","180","CONNECTOR 1x10"
+"J4","CONNECTOR 1x8","TopLayer","SOCKET_2.54_1X8_TH","24.1300","-13.9700","180","CONNECTOR 1x8"
+"LD_B","LD P12_4","TopLayer","LED_SMD_0603_(1608)","14.6000","19.6000","180","Wurth 150060BS73220"
+"LD_R","LD P12_5","TopLayer","LED_SMD_0603_(1608)","19.0000","19.6000","180","Wurth 150060RS75000"
+"Q1","Q1 P10_3","TopLayer","PLCC-3_CEB","-14.5000","19.5001","90","Phototransistor Vishay VEMT4700-GS08"
+"R1","15K","TopLayer","0603R-GENERIC","14.6000","16.8000","180","Resistor"
+"R2","10K","TopLayer","0603R-GENERIC","19.0000","16.8000","180","Resistor"
+"R3","1M","TopLayer","0603R-GENERIC","-18.5000","13.0000","180","Resistor"
+"R4","1K","TopLayer","0603R-GENERIC","-18.5000","14.5000","360","Resistor"
+"R5","47K","TopLayer","0603R-GENERIC","-14.5000","16.0000","180","Resistor"
+"R6","0R","TopLayer","0603R-GENERIC","-17.9500","7.9000","0","Resistor"
+"TP_M1","TestPoint","TopLayer","TestPoint_2mm","-15.4000","7.9000","90","Test Point"
+"TP_M2","TestPoint","TopLayer","TestPoint_2mm","-20.5000","7.9000","90","Test Point"
+"U1","Onethinx Core V18.01","TopLayer","OnethinxCore_18_01","0.0000","16.8975","0","PSoC Mixed Signal Array"
+"U2","TPS78330DDC","TopLayer","SOT-23-5","-17.9483","-9.2500","180",""
